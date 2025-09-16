@@ -25,9 +25,9 @@ I’m a **Computer Science Engineering Student** and an enthusiastic developer w
 ## 🌱 Currently Exploring
 
 - Advanced **React & Next.js** for scalable front-end applications.  
-- **AR/VR applications** for e-commerce visualization.  
-- **AI/ML** for analytics and intelligent decision-making.  
-- Building full-stack projects with **MERN & Django**.  
+- Building full-stack projects with **MERN stack & Django**.  
+- Enhancing skills in **system design and scalable architectures**.  
+- Exploring **cloud deployment and DevOps tools** for modern applications.  
 
 ## 🏆 Achievements
 
@@ -44,8 +44,8 @@ I’m a **Computer Science Engineering Student** and an enthusiastic developer w
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=payalbhattamisra&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=payalbhattamisra&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=payalbhattamisra&theme=dracula&hide_border=false" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=payalbhattamisra&theme=dracula&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 </div>
 
 ---
