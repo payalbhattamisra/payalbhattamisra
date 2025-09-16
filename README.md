@@ -1,22 +1,22 @@
 # Hi, I'm Payal Bhattamisra 👋
 
-I’m a **Computer Science Engineering Student** and an enthusiastic developer who loves solving real-world problems through **hackathons, AR/VR visualization, and full-stack development**. I enjoy learning, building, and sharing knowledge with the community.  
+I’m a **Computer Science Engineering Student** and an enthusiastic developer who loves solving real-world problems through **hackathons, and full-stack development**. I enjoy learning, building, and sharing knowledge with the community.  
 
 ![Payal's Stats](https://github-readme-stats.vercel.app/api?username=payalbhattamisra&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
 - 🎓 Pursuing B.Tech in Computer Science Engineering.  
-- 🏆 Winner of **Smart India Hackathon 2023** | Finalist at multiple national hackathons (Sparkathon, ULIP Logistics, etc.).  
-- 🌐 Passionate about **Web Development, AR/VR Visualization, and AI/ML applications**.  
+- 🏆 Winner of **Smart India Hackathon 2023** | Finalist at multiple national hackathons (Google Solution Challenge, ULIP Logistics, etc.).  
+- 🌐 Passionate about **Web Development, Hackathons, and Building Scalable Applications**.  
 - 💡 Currently exploring **Freelance Job Marketplace Platforms, Women Safety Analytics, and Drug Supply Chain Tracking Systems**.  
 
-## 📂 Featured Projects
+## 📂 Featured Projects  
 
-- 🌍 [Ghumo Bharat](https://incomparable-choux-c396c8.netlify.app/) – Travel & Tourism Platform.  
-- 🛒 [Walmart AR/VR Clone](https://payalbhattamisra.github.io/Walmart_clone/) – Sparkathon Project.  
-- ✅ [Task Management App](https://calendar-dby72klc0-payal-bhattamisras-projects.vercel.app/) – Productivity tool built with React & Node.js.  
-- 🔎 [Review Sentiment Analysis](https://codepen.io/your-work/) – Internship Assessment Project.  
+- 🆘 [Unified Disaster Response Coordination System](https://disaster-coral.vercel.app/) – Real-time disaster response & relief coordination platform.  
+- 💊 [Drug Inventory & Supply Chain System](https://di-lac.vercel.app/) – Transparent and reliable pharma distribution with QR-based tracking.  
+- 🌍 [Ghumo Bharat](https://incomparable-choux-c396c8.netlify.app/) – Travel & Tourism Platform with smart itineraries.  
+- 🎥 [Video Player With Notes](https://video-player-theta-nine.vercel.app/) – Smart video player with timestamped note-taking.  
 
 ## 🛠️ Tech Stack
 
@@ -32,7 +32,7 @@ I’m a **Computer Science Engineering Student** and an enthusiastic developer w
 ## 🏆 Achievements
 
 - 🥇 **Smart India Hackathon 2023 Winner**  
-- 🎯 Finalist in **Walmart Sparkathon & ULIP Logistics Hackathon**  
+- 🎯 Finalist in **ULIP Logistics Hackathon** and National level at **Google Solution Challenge**
 - 🌟 Active contributor in **college coding club workshops** (React, GitHub, etc.).  
 
 ## 📬 Get in Touch
